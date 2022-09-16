@@ -1,5 +1,5 @@
 # tableau-projects
-project 1: HR Analytics dashboards
+project 1: Superstore data analysis 
 
 
-project 2: KPMG sprocket central analysis (as a part of KPMG virtual experience program)
+project 2: HR Analytics 
